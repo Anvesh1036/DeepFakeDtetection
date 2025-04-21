@@ -1,0 +1,4 @@
+Flask
+tensorflow>=2.11
+Pillow
+numpy
